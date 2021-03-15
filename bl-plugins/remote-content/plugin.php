@@ -196,7 +196,7 @@ EOF;
 
 				unset($lines[$key]);
 			} else {
-				break;
+				continue;
 			}
 		}
 
